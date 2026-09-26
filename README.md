@@ -55,9 +55,5 @@ Oracle SQL 11g, SQL*Plus, JOINs, GROUP BY, ROWNUM, Aggregations
 - Biryani House is top restaurant
 - Loyal customers identified for marketing
 
-### 👩‍💻 Created by
-Padala Mani Keerthi | Aspiring Data Analyst | Kakinada
-
-
 ---
 ⭐ If you like this project, please give a Star!
